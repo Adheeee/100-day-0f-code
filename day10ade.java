@@ -7,9 +7,9 @@ public class day10ade {
         while (i <= 10) {
 
             System.out.println("Perulangan ke-" + i); 
-            
-           
-                
+
+            i++;
+                   
         }
     }
 
